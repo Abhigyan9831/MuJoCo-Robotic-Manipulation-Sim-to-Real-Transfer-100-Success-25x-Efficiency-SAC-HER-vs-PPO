@@ -25,13 +25,14 @@ Both policies achieve **100% success rate**, but with fundamentally different tr
 
 ## Demo
 
-<p align="center">
+<!--<p align="center">
   <a href="videos/weilder.mp4">
     <img src="assets/thumbnail.png" alt="Demo Video" width="800"/>
   </a>
-</p>
-
-> Click above to watch the trained policy reaching targets from randomized starting positions.
+</p>-->
+<video src="assets/weilder.mp4" autoplay loop muted playsinline width="800">
+</video>
+<!--> Click above to watch the trained policy reaching targets from randomized starting positions.-->
 
 ---
 

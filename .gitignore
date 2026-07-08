@@ -37,7 +37,6 @@ env/
 # Project artifacts (these are generated, not source code)
 logs/
 checkpoints/
-videos/
 wandb/
 *.zip
 *.pkl

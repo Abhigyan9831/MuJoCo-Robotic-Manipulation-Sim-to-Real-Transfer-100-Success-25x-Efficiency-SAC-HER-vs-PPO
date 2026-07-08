@@ -29,7 +29,6 @@ Both policies achieve **100% success rate**, but with fundamentally different tr
     <img src="videos/weilder.gif" alt="Demo" width="800" height="450">  
 </p>
 
-<!--> Click above to watch the trained policy reaching targets from randomized starting positions.-->
 
 ---
 
